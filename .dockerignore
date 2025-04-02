@@ -1,0 +1,9 @@
+.env
+node_modules
+.ZEELZ.md
+
+main.tf
+terraform*
+.terraform*
+
+.github
